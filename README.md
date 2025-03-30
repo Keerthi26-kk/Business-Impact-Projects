@@ -25,7 +25,7 @@ Technologies Used
 📌 Data Visualization (Matplotlib, Seaborn)
 📌 Feature Engineering & Model Tuning
 
-🔗 Explore the full project here: [GitHub Repository Link]
+
 
 2️⃣ Dynamic Pricing – Optimizing Revenue Strategies
 
@@ -54,7 +54,6 @@ Technologies Used
 📌 Data Visualization (Seaborn, Plotly)
 📌 Time Series Analysis & Demand Forecasting
 
-🔗 Explore the full project here: [GitHub Repository Link]
 
 Next Steps & Enhancements
 🔹 Incorporate real-time pricing adjustments using Reinforcement Learning
